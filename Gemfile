@@ -16,7 +16,7 @@ gem 'aasm'
 gem 'paypal_adaptive'
 gem 'font-awesome-rails'
 gem 'gon'
-gem 'geocoder', '~> 1.4', '>= 1.4.9'
+gem 'geocoder', '~> 1.6'
 gem 'gis-distance', '~> 1.0', '>= 1.0.2'
 
 group :development, :test do
